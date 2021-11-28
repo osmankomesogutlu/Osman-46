@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Osman Kömesöğütlü
+- 👋 Hi, I’m @Osman
+- 
 - 👀 Flutter ile ilgileniyorum
 
 
